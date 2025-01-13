@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+*.pdf
+*.txt
+!requirements.txt
+*env
+
+# data files were too big to commit
+data_checkpoints/
